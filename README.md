@@ -3,7 +3,7 @@ This corpus contains sentences with an ellipsis for Russian language. The corpus
 
 ### Data
 The corpus contains sentences with different types of ellipsis, mainly: NP-ellipsis, VP-ellipsis, gapping, stripping, sluicing, polarity ellipsis, answer ellipsis.
-The data for the corpus was taken from existing ellipsis corpus in Russian, from articles about ellipsis in the Russian language, manually selected by the author from the Russian National Corpus or created by the author. To find out the source of the sentence, see the source column.
+The data for the corpus was taken from existing ellipsis corpora for Russian, from articles about ellipsis in the Russian language, manually selected by the author from the Russian National Corpus or created by the author. To find out the source of the sentence, see the source column.
 
 ### Structure
 | sentence  | suggested ellipsis resolution | ellipsis type | source |
